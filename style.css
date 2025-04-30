@@ -125,10 +125,20 @@ h1{
         width: 30vw;
         text-align: center;
         border: 2px solid black;
-        border-radius: 2rem;
+        border-radius: 10px;
         font-size: 1.1rem;
         background-color: bisque;
      }
+     .container{
+        margin-top: 1.2vh;
+        max-height: 62vh;
+        max-width: 80vw;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-wrap: wrap;
+        gap: 15px;
+    }
      .container>button{
         height: 18vh;
         width: 18vw;
