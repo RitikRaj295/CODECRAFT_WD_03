@@ -42,7 +42,7 @@ This is a simple Tic-Tac-Toe game implemented using HTML, CSS, and JavaScript. T
 <h2>To run this project locally:</h2>
 <ol>
 <li>Clone the repository:</li>
-<p>git clone https://github.com/your-username/tic-tac-toe.git</p>
+<p>git clone (https://ritikraj295.github.io/CODECRAFT_WD_03/)</p>
 <li>Navigate to the project directory:</li>
 <p>cd tic-tac-toe</p>
 <li>Open index.html in your browser to start playing the game.</li>
